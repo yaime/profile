@@ -25,7 +25,7 @@ body:after {
 }
 
 aside {
-  width: 40%;
+  width: 50%;
   background: transparent;
   margin: 0 auto;
   position: relative;
@@ -73,7 +73,7 @@ aside:hover header h2 {
   transition: .3s all ease 1.1s;
 }
 aside:hover .profile-bio:before {
-  width: 60%;
+  width: 50%;
   -webkit-transition: .3s all ease 1.25s;
   transition: .3s all ease 1.25s;
 }
